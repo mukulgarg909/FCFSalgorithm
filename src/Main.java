@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class Main {
   public static void main(String[] args)
   {
-  int p[][] = new int[4][5]; // 4x4 array matrix
+  int p[][] = new int[4][5]; 
   Scanner sc = new Scanner(System.in);
   // loop for entering burst-time value at p[1][0]
   for(int i=1;i<4;i++)
